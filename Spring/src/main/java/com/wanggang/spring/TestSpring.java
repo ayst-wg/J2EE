@@ -9,6 +9,6 @@ package com.wanggang.spring;
  **/
 public class TestSpring {
     public static void main(String[] args) {
-        System.out.println("Spring Holle World!");
+        System.out.println("Administrator Spring Holle World!");
     }
 }
