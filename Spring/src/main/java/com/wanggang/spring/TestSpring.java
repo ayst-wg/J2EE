@@ -8,4 +8,7 @@ package com.wanggang.spring;
  * @Version 1.0
  **/
 public class TestSpring {
+    public static void main(String[] args) {
+        System.out.println("Spring Holle World!");
+    }
 }
